@@ -1,0 +1,11 @@
+
+
+.newTsk,
+.clearOut {
+    margin-bottom: 100px;
+}
+
+.taskList {
+    font-size: 40px;
+    font-weight: bolder;
+}
